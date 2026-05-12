@@ -1,27 +1,20 @@
 # Passo 1: Entrar no sistema da empresa 
-    # https://dlp.hashtagtreinamentos.com/python/intensivao/login
-
 import pyautogui
 import time
 
-# pyautogui.write -> escrever um texto
-# pyautogui.press -> apertar 1 tecla
-# pyautogui.click -> clicar em algum lugar da tela
-# pyautogui.hotkey -> combinação de teclas
 pyautogui.PAUSE = 1
 
-# abrir o navegador (brave)
+# Abrir o seu navegador 
 pyautogui.press("win")
 pyautogui.write("brave")
 pyautogui.press("enter")
 time.sleep(1)
-# entrar no link 
+# Entrar no link do site que cadastra os Produtos
 pyautogui.write("https://dlp.hashtagtreinamentos.com/python/intensivao/login")
 pyautogui.press("enter")
 time.sleep(2)
 
-
-# Passo 2: Fazer login
+# Passo 2: Fazer login (Se necessário)
 # selecionar o campo de emailseuemail@gmail.com sua senha
 pyautogui.click(x=532, y=372)
 # escrever o seu email
