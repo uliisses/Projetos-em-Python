@@ -1,4 +1,5 @@
 # repositorio_ulisses
-Olá, sou Estudante de Sistemas de Informação e aqui estão meus projetos até o momento.
+Olá, sou Estudante de Sistemas de Informação e aqui estão meus projetos feitos em Python.
+
 
 
