@@ -1,5 +1,5 @@
 # repositorio_ulisses
-# Olá, eu sou Ulisses Peres da Silva Vasconcelos 👋
+# Olá, eu sou Ulisses Peres 👋
 
 Estudante de Sistemas de Informação (UFAC) e desenvolvedor autodidata, com foco em **Python** aplicado à automação de processos, análise de dados, machine learning e agentes de inteligência artificial.
 
@@ -75,7 +75,7 @@ Automação de um processo manual e repetitivo de cadastro de produtos em sistem
 
 ---
 
-⭐ Portfólio completo de projetos disponível mediante solicitação.
+
 
 
 
